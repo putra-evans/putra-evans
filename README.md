@@ -64,7 +64,7 @@
 <br />
 
 <!-- About Section -->
-# Sekilas Tentang Saya
+## Sekilas Tentang Saya
 
 <p>
   <img
@@ -119,7 +119,7 @@ Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&log
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 <br />
-##  GitHub Trophy:
+## GitHub Trophy:
 <hr />
 <p align="center">
 
