@@ -14,6 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<h2 align="center">
+  Selamat Datang Di Profil Github Putra Evans
+  <img
+    src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"
+    width="28"
+  />
+</h2>
 <p align="center">
   <a href="https://github.com/putra-evans"
     ><img
@@ -28,14 +35,6 @@ Here are some ideas to get you started:
     alt="Profile visitor"
   />
 </a>
-
-<h2 align="center">
-  Selamat Datang Di Profil Github Putra Evans
-  <img
-    src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"
-    width="28"
-  />
-</h2>
 
 <!-- [![wakatime](https://wakatime.com/badge/user/eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc.svg)](https://wakatime.com/@eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc) -->
 
