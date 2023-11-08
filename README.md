@@ -122,7 +122,7 @@ Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&log
 <hr />
 ## GitHub Trophy:
 <p align="center">
-![trophy](https://github-profile-trophy.vercel.app/?username=putra-evans&theme=darkhub&no-frame=true&no-bg=true)
+![trophy](https://github-profile-trophy.vercel.app/?username=putra-evans)
 </p>
 <br />
 <hr />
