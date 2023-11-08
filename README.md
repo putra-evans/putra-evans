@@ -126,7 +126,7 @@ Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&log
   <img width=800 src="https://github-profile-trophy.vercel.app/?username=putra-evans&column=8&theme=darkhub&no-frame=true&no-bg=true"/>
 </a> -->
 
-![trophy](https://github-profile-trophy.vercel.app/?username=putra-evans)
+![trophy](https://github-profile-trophy.vercel.app/?username=putra-evans&column=8&theme=darkhub&no-frame=true&no-bg=true)
 </p>
 <br />
 <hr />
