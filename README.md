@@ -68,7 +68,6 @@
 
 <p>
   <img
-  style="border-radius: 50%;"
     align="right"
     width="350"
     src="/assets/programmer.gif"
@@ -81,7 +80,6 @@
   🥰 &emsp; Memiliki komunikasi yang baik<br /><br />
   📧 &emsp; Hubungi saya kapan saja: putraevans001@gmail.com<br /><br />
 </p>
-<br />
 <br />
 
 ## Tool untuk koding
