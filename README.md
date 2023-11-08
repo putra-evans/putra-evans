@@ -1,4 +1,4 @@
-### Hi there 👋
+<!-- ### Hi there 👋 -->
 
 <!--
 **putra-evans/putra-evans** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,15 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<h2 align="center">
-  Welcome to Al Siam World!
-  <img
-    src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"
-    width="28"
-  />
-</h2>
-
 <p align="center">
   <a href="https://github.com/putra-evans"
     ><img
@@ -38,7 +29,15 @@ Here are some ideas to get you started:
   />
 </a>
 
-[![wakatime](https://wakatime.com/badge/user/eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc.svg)](https://wakatime.com/@eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc)
+<h2 align="center">
+  Selamat Datang Di Profil Github Putra Evans
+  <img
+    src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"
+    width="28"
+  />
+</h2>
+
+<!-- [![wakatime](https://wakatime.com/badge/user/eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc.svg)](https://wakatime.com/@eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc) -->
 
 <!-- Intro  -->
 <h3 align="center">
@@ -143,8 +142,8 @@ Query](https://img.shields.io/badge/-React_Query-FF4154?style=for-the-badge&logo
 
 <br />
 
-## Top Open Source - [![Web
-<!-- Projects](https://github-readme-stats.vercel.app/api/pin/?username=putra-evans&repo=web-projects&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/putra-evans/web-projects)
+<!-- ## Top Open Source - [![Web
+Projects](https://github-readme-stats.vercel.app/api/pin/?username=putra-evans&repo=web-projects&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/putra-evans/web-projects)
 [![Al
 Folio](https://github-readme-stats.vercel.app/api/pin/?username=putra-evans&repo=al-folio&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/putra-evans/al-folio)
 [![Al Siam
