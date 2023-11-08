@@ -1,19 +1,3 @@
-<!-- ### Hi there 👋 -->
-
-<!--
-**putra-evans/putra-evans** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <h2 align="center">
   Selamat Datang Di Profil Github Putra Evans
   <img
@@ -34,20 +18,10 @@ Here are some ideas to get you started:
       src="https://readme-typing-svg.herokuapp.com/?lines=Web%20Programmer;Front%20End%20Developer;3%2B%20tahun%20pengalaman%20web%20programmer;Suka%20belajar%20hal%20baru&center=true&width=380&height=45"
   /></a>
 </p>
-
-<!-- [![wakatime](https://wakatime.com/badge/user/eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc.svg)](https://wakatime.com/@eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc) -->
-
-<!-- Intro  -->
-<!-- <h3 align="center">
-  <samp
-    >&gt; Hey There!, I am
-    <b><a target="_blank" href="https://putra-evans.com">Al Siam</a></b>
-  </samp>
-</h3> -->
+</h3>
 
 <p align="center">
   <samp>
-    <!-- <a href="https://www.google.com/search?q=Al+Siam">「 Google Me 」</a> -->
     <br />
     「 Web Programmer dan Front End Developer 」
     <br />
@@ -68,14 +42,6 @@ Here are some ideas to get you started:
       alt="putra-evans"
     />
   </a>
-  <!-- <a href="https://dev.to/putra-evans" target="_blank">
-  <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="putra-evans" />
- </a> -->
-  <!-- <a href="https://twitter.com/putra-evans_dev" target="_blank">
-    <img
-      src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"
-    />
-  </a> -->
   <a href="https://www.instagram.com/put_evans/" target="_blank">
     <img
       src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white"
@@ -145,24 +111,6 @@ Query](https://img.shields.io/badge/-React_Query-FF4154?style=for-the-badge&logo
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 <br />
-
-<!-- ## Top Open Source - [![Web
-Projects](https://github-readme-stats.vercel.app/api/pin/?username=putra-evans&repo=web-projects&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/putra-evans/web-projects)
-[![Al
-Folio](https://github-readme-stats.vercel.app/api/pin/?username=putra-evans&repo=al-folio&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/putra-evans/al-folio)
-[![Al Siam
-Readme](https://github-readme-stats.vercel.app/api/pin/?username=putra-evans&repo=putra-evans&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/putra-evans/putra-evans)
-[![Al Siam
-Teminal](https://github-readme-stats.vercel.app/api/pin/?username=putra-evans&repo=putra-evans.github.io&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/putra-evans/putra-evans.github.io) -->
-
-<p align="left">
-  <a href="https://github.com/putra-evans?tab=repositories" target="_blank"
-    ><img
-      alt="All Repositories"
-      title="All Repositories"
-      src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"
-  /></a>
-</p>
 
 <br />
 <hr />
