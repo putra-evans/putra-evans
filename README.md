@@ -69,7 +69,7 @@
 <p>
   <img
     align="right"
-    width="350"
+    width="300"
     src="/assets/programmer.gif"
     alt="Coding gif"
   />
