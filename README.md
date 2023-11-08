@@ -68,8 +68,9 @@
 
 <p>
   <img
+  style="border-radius: 50%;"
     align="right"
-    width="300"
+    width="350"
     src="/assets/programmer.gif"
     alt="Coding gif"
   />
