@@ -64,7 +64,7 @@
 <br />
 
 <!-- About Section -->
-# About me
+# Sekilas Tentang Saya
 
 <p>
   <img
@@ -74,9 +74,10 @@
     alt="Coding gif"
   />
 
-  ✌️ &emsp; Senang dengan pemrograman dan berbagi pengetahuan <br /><br />
-  ❤️ &emsp; Senang menulis koding dan mempelajari fitur-fitur maupun hal baru<br /><br />
-  📧 &emsp; Hubungi saya kapan saja: putraevans001@gmail.com<br /><br />
+  ✌️ &emsp; Senang dengan pemrograman dan berbagi pengetahuan <br />
+  ❤️ &emsp; Senang menulis koding dan mempelajari fitur-fitur maupun hal baru<br />
+  📧 &emsp; Hubungi saya kapan saja: putraevans001@gmail.com<br />
+  
 </p>
 <br />
 
