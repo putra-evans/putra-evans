@@ -74,11 +74,11 @@
     alt="Coding gif"
   />
 
-  ✌️ &emsp; Senang dengan pemrograman dan berbagi pengetahuan <br />
-  ❤️ &emsp; Senang menulis koding dan mempelajari fitur-fitur maupun hal baru<br />
-  🤝 &emsp; Suka bekerja sebagai team<br />
-  🥰 &emsp; Memiliki komunikasi yang baik<br />
-  📧 &emsp; Hubungi saya kapan saja: putraevans001@gmail.com<br />
+  ✌️ &emsp; Senang dengan pemrograman dan berbagi pengetahuan <br /><br />
+  ❤️ &emsp; Senang menulis koding dan mempelajari fitur-fitur maupun hal baru<br /><br />
+  🤝 &emsp; Suka bekerja sebagai team<br /><br />
+  🥰 &emsp; Memiliki komunikasi yang baik<br /><br />
+  📧 &emsp; Hubungi saya kapan saja: putraevans001@gmail.com<br /><br />
 </p>
 <br />
 <br />
