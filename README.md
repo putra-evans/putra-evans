@@ -82,7 +82,6 @@
 </p>
 <br />
 <br />
-<br />
 
 ## Tool untuk koding
 
