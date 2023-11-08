@@ -76,8 +76,9 @@
 
   ✌️ &emsp; Senang dengan pemrograman dan berbagi pengetahuan <br />
   ❤️ &emsp; Senang menulis koding dan mempelajari fitur-fitur maupun hal baru<br />
+  🤝 &emsp; Suka bekerja sebagai team<br />
+  🥰 &emsp; Memiliki komunikasi yang baik<br />
   📧 &emsp; Hubungi saya kapan saja: putraevans001@gmail.com<br />
-  
 </p>
 <br />
 
