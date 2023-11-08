@@ -74,15 +74,10 @@
     alt="Coding gif"
   />
 
-  ✌️ &emsp; Enjoy to do programming and sharing knowledge <br /><br />
-  ❤️ &emsp; Love to writing code and learning new features<br /><br />
-  📧 &emsp; Reach me anytime: putra-evans.dev@gmail.com<br /><br />
-  💬 &emsp; Ask me about anything
-  [here](https://github.com/putra-evans/putra-evans/issues)
+  ✌️ &emsp; Senang dengan pemrograman dan berbagi pengetahuan <br /><br />
+  ❤️ &emsp; Senang menulis koding dan mempelajari fitur-fitur maupun hal baru<br /><br />
+  📧 &emsp; Hubungi saya kapan saja: putraevans001@gmail.com<br /><br />
 </p>
-
-<br />
-<br />
 <br />
 
 ## Use To Code
