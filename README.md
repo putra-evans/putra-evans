@@ -82,7 +82,7 @@
 </p>
 <br />
 
-## Use To Code
+## Tool untuk koding
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -117,8 +117,6 @@ Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&log
 
 
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
-<br />
 
 <br />
 <hr />
@@ -160,5 +158,5 @@ Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&log
   <br />
 </a>
 
-![Al Siam's
+![putra-evans
 Graph](https://github-readme-activity-graph.vercel.app/graph?username=putra-evans&custom_title=Al%20Siam's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
