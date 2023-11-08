@@ -21,13 +21,6 @@ Here are some ideas to get you started:
     width="28"
   />
 </h2>
-<p align="center">
-  <a href="https://github.com/putra-evans"
-    ><img
-      src="https://readme-typing-svg.herokuapp.com/?lines=Web%20Programmer;Front%20End%20Developer;3%2B%20tahun%20pengalaman%20web%20programmer;Suka%20belajar%20hal%20baru&center=true&width=380&height=45"
-  /></a>
-</p>
-
 <a href="https://komarev.com/ghpvc/?username=putra-evans">
   <img
     align="right"
@@ -35,6 +28,12 @@ Here are some ideas to get you started:
     alt="Profile visitor"
   />
 </a>
+<p align="center">
+  <a href="https://github.com/putra-evans"
+    ><img
+      src="https://readme-typing-svg.herokuapp.com/?lines=Web%20Programmer;Front%20End%20Developer;3%2B%20tahun%20pengalaman%20web%20programmer;Suka%20belajar%20hal%20baru&center=true&width=380&height=45"
+  /></a>
+</p>
 
 <!-- [![wakatime](https://wakatime.com/badge/user/eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc.svg)](https://wakatime.com/@eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc) -->
 
@@ -50,7 +49,7 @@ Here are some ideas to get you started:
   <samp>
     <!-- <a href="https://www.google.com/search?q=Al+Siam">「 Google Me 」</a> -->
     <br />
-    「 I am a full stack web application developer from <b>Indonesia</b> 」
+    「 Web Programmer dan Front End Developer 」
     <br />
     <br />
   </samp>
